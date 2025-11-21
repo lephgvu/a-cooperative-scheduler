@@ -1,3 +1,2 @@
-# A Cooperative Scheduler
-
-Practice Lab 4 of MCP-MCU course
+# Buttons-Switches
+Practice Lab 3 of MCP-MCU course
